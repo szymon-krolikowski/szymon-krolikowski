@@ -11,6 +11,7 @@ My name is Szymon Królikowski and I live in Toruń. I study computer science in
 :heavy_check_mark: JavaScript (ES6+) <br>
 :heavy_check_mark: Bootstrap <br>
 :heavy_check_mark: WordPress <br>
+:heavy_check_mark: SEO <br>
 :heavy_check_mark: Git <br>
 :heavy_check_mark: SQL <br>
 :heavy_check_mark: Python (total begginer)<br>
